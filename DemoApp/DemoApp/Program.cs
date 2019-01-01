@@ -31,6 +31,10 @@ namespace DemoApp
 
             oe.MultiConditionalOperators();
 
+
+            ArrayExamples ae = new ArrayExamples();
+            ae.Practice();
+
             Console.ReadKey();
         }
 
